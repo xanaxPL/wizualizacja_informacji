@@ -1,0 +1,2 @@
+# wizualizacja_informacji
+Konferencja
